@@ -1,6 +1,7 @@
 # React.js Sample Project
 
 [![dependencies Status](https://david-dm.org/edoko/react-js-sample/status.svg)](https://david-dm.org/edoko/react-js-sample) [![devDependencies Status](https://david-dm.org/edoko/react-js-sample/dev-status.svg)](https://david-dm.org/edoko/react-js-sample?type=dev) [![npm version](https://badge.fury.io/js/react-js-sample.svg)](https://badge.fury.io/js/react-js-sample) [![Build Status](https://travis-ci.org/edoko/react-js-sample.svg?branch=master)](https://travis-ci.org/edoko/react-js-sample)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FfirstPole%2Freact-js-sample.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FfirstPole%2Freact-js-sample?ref=badge_shield)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/edoko/react-js/sample)
 
@@ -51,3 +52,6 @@ npm run server
 ```sh
 npm run build
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FfirstPole%2Freact-js-sample.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FfirstPole%2Freact-js-sample?ref=badge_large)
