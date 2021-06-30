@@ -1,4 +1,4 @@
-# React.js Sample Project
+# React.js Sample Project with Github actions
 
 [![dependencies Status](https://david-dm.org/edoko/react-js-sample/status.svg)](https://david-dm.org/edoko/react-js-sample) [![devDependencies Status](https://david-dm.org/edoko/react-js-sample/dev-status.svg)](https://david-dm.org/edoko/react-js-sample?type=dev) [![npm version](https://badge.fury.io/js/react-js-sample.svg)](https://badge.fury.io/js/react-js-sample) [![Build Status](https://travis-ci.org/edoko/react-js-sample.svg?branch=master)](https://travis-ci.org/edoko/react-js-sample)
 
